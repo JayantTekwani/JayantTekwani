@@ -10,7 +10,7 @@
 
 <!-- Pick a "man relaxing on beach with laptop" GIF from giphy.com/explore/beach-laptop
      or tenor.com/search/relaxing-on-the-beach-gifs and paste its direct image URL below -->
-<img src="REPLACE_WITH_YOUR_GIF_URL" width="100%" alt="Header Banner" />
+<img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" width="100%" alt="Header Banner" />
 
 <br/><br/>
 
