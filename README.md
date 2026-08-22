@@ -59,13 +59,6 @@
 
 <br/>
 
-## 📊 Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayantTekwani&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayantTekwani&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantTekwani&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
