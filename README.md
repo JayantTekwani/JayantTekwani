@@ -60,10 +60,6 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantTekwani&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=JayantTekwani&label=Profile%20Views&color=00C2FF&style=flat" alt="Profile Views" />
 </p>
 
